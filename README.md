@@ -5,3 +5,5 @@ Adds HLSL vector swizzling to unity C# scripts through extension methods. Never 
 
 Just download or copy the script contents into a Unity Script. Include the name space FeralPug_VectorSwizzle in the script you want to swizzle vectors in. Feel free to
 rename the name space or just get rid of it if you please.
+
+![Example Screen Shot](https://github.com/FeralPug/VectorSwizzle/blob/main/ScreenShot/VectorSwizzle.png?raw=true "Screen Shot")
